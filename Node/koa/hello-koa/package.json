@@ -14,7 +14,7 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/gaoqz/learn-javascript"
     },
     "dependencies": {
         "colors": "^1.1.2",
